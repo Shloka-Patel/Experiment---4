@@ -13,4 +13,6 @@ Theory -> Bitwise Operaotors in C++ are used to perform bit-level operations on 
 
 Output <br> 
 
+![exp4](https://github.com/Shloka-Patel/Experiment---4/blob/main/Output_4.png) <br> 
 
+Conclusion -> I learnt about bitwise operators. 
