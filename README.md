@@ -2,6 +2,8 @@
 
 Aim -> To study and implement C++ Bitwise Operators. <br> 
 
+Software -> Visual Studio Code <br> 
+
 Theory -> Bitwise Operaotors in C++ are used to perform bit-level operations on the operands. <br> 
           Its symbols and functions are as follows: <br> 
           1. & -> Binary AND <br>
