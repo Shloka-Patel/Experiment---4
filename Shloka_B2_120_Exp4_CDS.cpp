@@ -1,6 +1,6 @@
 // NAME - SHLOKA PATEL  
 // PRN - 23070123120  
-// EXPERIMENT -3  
+// EXPERIMENT - 4   
 #include<iostream> 
 using namespace std; 
 int main()  
