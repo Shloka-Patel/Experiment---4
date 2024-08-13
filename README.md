@@ -1,10 +1,13 @@
 # Experiment---4
 
-Aim -> To study and implement C++ Bitwise Operators. <br> 
+### Aim 
+To study and implement C++ Bitwise Operators. <br> 
 
-Software -> Visual Studio Code <br> 
+### Software 
+Visual Studio Code <br> 
 
-Theory -> Bitwise Operaotors in C++ are used to perform bit-level operations on the operands. <br> 
+### Theory 
+Bitwise Operaotors in C++ are used to perform bit-level operations on the operands. <br> 
           Its symbols and functions are as follows: <br> 
           1. & -> Binary AND <br>
           2. | -> Binary OR <br>
@@ -13,7 +16,7 @@ Theory -> Bitwise Operaotors in C++ are used to perform bit-level operations on 
           5. >> -> Right Shift <br> 
           6. ~ -> Compelement <br> 
 
-Code:<br>
+### Code:<br>
 ```
 #include<iostream> 
 using namespace std; 
@@ -34,8 +37,9 @@ cout<<"Complement of b is: "<<(y=~b)<<"\n";
 return 0;
 }
 ``` 
-Output <br> 
+### Output <br> 
 
 ![exp4](https://github.com/Shloka-Patel/Experiment---4/blob/main/Output_4.png) <br> 
 
-Conclusion -> I learnt about bitwise operators. 
+### Conclusion 
+I learnt about bitwise operators. 
